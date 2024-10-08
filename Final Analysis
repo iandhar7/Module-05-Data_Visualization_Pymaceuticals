@@ -1,0 +1,7 @@
+Final Analysis: 
+The analysis includes data preparation, summary statistics, and data visualization with bar and pie charts.
+calculation of quartiles and outliers, and creation of line and scatter plots.
+calculation of correlation and regression between mouse weight and tumor volume for the Capomulin treatment regimen.
+The bar graph showed that the drug regimen capomulin has the maximum number of mice (230), and Zoniferol has the smallest number (182). By removing duplicates the total number of mice is 248. 
+The total count of mice by gender also showed 124 female mice and 125 male mice.
+From the selected treatments Capomulin and Ramicane reduce the size of tumors better.
